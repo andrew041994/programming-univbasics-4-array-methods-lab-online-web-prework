@@ -12,6 +12,8 @@ def using_sort(array)
 end
 
 def using_reverse(array)
+  using_reverse=["amazing","great","exiting","wow"]
+  array.reverse
 
 end
 
