@@ -20,7 +20,7 @@ end
 def using_first(array)
   using_first=["wow","great","exiting"]
   array.first
-  
+
 
 end
 
